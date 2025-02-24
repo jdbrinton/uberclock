@@ -9,7 +9,7 @@ Board dimensions: 100x100mm
 Tools: Altium Designer Professional (23.11.1)
 
 # Errata
-1. See issue #1 for details and resolution. Crystal resonator footprint wrong. Pin numbers are mirrored.
+1. See [issue #1](https://github.com/jdbrinton/uberclock/issues/1) for details and resolution. Crystal resonator footprint wrong. Pin numbers are mirrored.
 
 ![PCB Design](board_picture.png)
 ![PCB Photo](photo.jpg)
