@@ -22,3 +22,8 @@ Measurements taken on NanoVNA V2 (https://nanorfe.com/nanovna-v2.html)
 ![Mode C100](measurements/mode_c100.png)
 ![Mode C300](measurements/mode_c300.png)
 ![Mode C500](measurements/mode_c500.png)
+
+# Sponsor
+
+This work was done under contract for: https://nlnet.nl/project/uberClock/
+
