@@ -253,3 +253,30 @@ TSWLatexianTemp*
 
 build
 
+#################
+## KiCad project files
+#################
+
+*.bak
+*.bck
+*-backups/
+_autosave-*
+*.kicad_pcb-bak
+*.kicad_sch-bak
+fp-info-cache
+sym-lib-table
+fp-lib-table
+gerber/
+*.gbr
+*.drl
+*.zip
+*.csv
+*.net
+*.xml
+*.rpt
+*.log
+simulation/
+*.sim
+*.erc
+*.d356
+*.pos
