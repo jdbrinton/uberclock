@@ -25,5 +25,5 @@ Measurements taken on NanoVNA V2 (https://nanorfe.com/nanovna-v2.html)
 
 # Sponsor
 
-This work was done under contract for: https://nlnet.nl/project/uberClock/
+This work received donation from: https://nlnet.nl/project/uberClock/
 
